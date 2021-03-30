@@ -1,0 +1,25 @@
+.giphyBackground {
+    background-color: rgb(53, 48, 48);
+}
+
+#giphyLogo {
+    width: 10%;
+    height: 10%;
+}
+
+#gif {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.card-header {
+    color: white;
+}
+
+.card-title {
+    color: white;
+}
+
+.card-footer {
+    color: white;
+}
